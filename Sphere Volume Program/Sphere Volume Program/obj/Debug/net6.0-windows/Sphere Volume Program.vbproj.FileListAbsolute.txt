@@ -1,0 +1,17 @@
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\bin\Debug\net6.0-windows\Sphere Volume Program.exe
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\bin\Debug\net6.0-windows\Sphere Volume Program.deps.json
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\bin\Debug\net6.0-windows\Sphere Volume Program.runtimeconfig.json
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\bin\Debug\net6.0-windows\Sphere Volume Program.dll
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\bin\Debug\net6.0-windows\Sphere Volume Program.pdb
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\obj\Debug\net6.0-windows\Sphere Volume Program.vbproj.AssemblyReference.cache
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\obj\Debug\net6.0-windows\Sphere_Volume_Program.Form1.resources
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\obj\Debug\net6.0-windows\Sphere Volume Program.vbproj.GenerateResource.cache
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\obj\Debug\net6.0-windows\Sphere Volume Program.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\obj\Debug\net6.0-windows\Sphere Volume Program.AssemblyInfoInputs.cache
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\obj\Debug\net6.0-windows\Sphere Volume Program.AssemblyInfo.vb
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\obj\Debug\net6.0-windows\Sphere Volume Program.vbproj.CoreCompileInputs.cache
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\obj\Debug\net6.0-windows\Sphere Volume Program.dll
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\obj\Debug\net6.0-windows\refint\Sphere Volume Program.dll
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\obj\Debug\net6.0-windows\Sphere Volume Program.pdb
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\obj\Debug\net6.0-windows\Sphere Volume Program.genruntimeconfig.cache
+F:\GitHub Projects\cone-volume-program\Sphere Volume Program\Sphere Volume Program\obj\Debug\net6.0-windows\ref\Sphere Volume Program.dll
